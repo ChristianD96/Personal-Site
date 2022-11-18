@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src={video1} autoPlay loop muted />
-      <h1>Welcome...</h1>
+      <h1 className='welcome'>Welcome...</h1>
       <p className='opening'>
         I created this site from scratch using React and Javascript.
         <br></br>
