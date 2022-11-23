@@ -9,26 +9,26 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Projects</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
+            <Link to='/'>Project 1</Link>
+            <Link to='/'>Project 2</Link>
+            <Link to='/'>Project 3</Link>
+            <Link to='/'>Project 4</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Me</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/'>Call</Link>
+            <Link to='/'>Text</Link>
+            <Link to='/'>Email</Link>
+            <Link to='/'>LinkedIn</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Me</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <Link to='/'>Stuff</Link>
+            <Link to='/'>More Stuff</Link>
+            <Link to='/'>Hey Stuff</Link>
+            <Link to='/'>andddd Stuff</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>

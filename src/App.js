@@ -6,7 +6,6 @@ import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
 import { Route, Routes } from "react-router-dom";
 import './components/Navbar.css';
-import './components/HeroSection.css';
 import './components/pages/Home.css';
 import "./components/Footer.css";
 

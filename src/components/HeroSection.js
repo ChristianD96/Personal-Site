@@ -8,13 +8,13 @@ function HeroSection() {
       <video src={video1} autoPlay loop muted />
       <h1 className='welcome'>Welcome...</h1>
       <p className='opening'>
+        This site is currently still under maintenance.
+        <br></br>
         I created this site from scratch using React and Javascript.
         <br></br>
-        Looking through the site you will find other
+        You can contact me at christian.a.drouin@gmail.com
         <br></br>
-        projects I have worked on, my resume,
-        <br></br>
-        and my contact information.
+        Eventually this site will contain better informed contact information.
       </p>
     </div>
   );
