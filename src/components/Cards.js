@@ -4,6 +4,7 @@ import CardItem from './CardItem';
 import imageStack from '../images/stack2.jpg';
 import imageLED from '../images/LED.jpg';
 import imageTest from '../images/test.png';
+import sorry from '../images/sorry.jpg';
 
 function Cards() {
   return (
@@ -26,6 +27,11 @@ function Cards() {
               src={imageStack}
               text='Full-Stack Applicaiton'
               path='https://github.com/ChristianD96/CS465-FullStack'
+            />
+            <CardItem
+              src={sorry}
+              text='Sorry App'
+              path='https://main.d3dqgdwl4qxea.amplifyapp.com/'
             />
           </ul>
         </div>
