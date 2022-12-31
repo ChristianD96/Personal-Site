@@ -4,7 +4,7 @@ import "./About.css";
 export default function About() {
   return (
     <div className='about'>
-      <h1 className='header'>Christian Drouin</h1>
+      <h1>Christian Drouin</h1>
       <p>
         Salem, NH &bull;
         christian.a.drouin@gmail.com &bull;
