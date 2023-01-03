@@ -48,3 +48,13 @@
   color: #88734ffa;
   transition: ease-in-out 0.3s;
 }
+
+@media screen and (max-width: 960px) {
+  .nav {
+    height: 50px;
+  }
+
+  .site-title {
+    font-size: 1rem;
+  }
+}
