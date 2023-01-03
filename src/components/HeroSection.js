@@ -5,7 +5,7 @@ import video1 from '../videos/video-1.mp4';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src={video1} autoPlay loop muted />
+      <video src={video1} autoPlay loop muted playsInline />
       <h1 className='welcome'>Welcome...</h1>
       <p className='opening'>
         Hello and welcome to my personal site.
