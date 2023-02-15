@@ -25,7 +25,7 @@ function Cards() {
             />
             <CardItem
               src={imageStack}
-              text='Full-Stack Applicaiton'
+              text='Full-Stack Application'
               path='https://github.com/ChristianD96/CS465-FullStack'
             />
             <CardItem
