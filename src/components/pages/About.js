@@ -10,7 +10,7 @@ export default function About() {
         christian.a.drouin@gmail.com &bull;
         (805) 623-2208 &bull;
         <a className='about-link' href={'https://www.linkedin.com/in/christian-a-drouin/'} target="_blank" rel="noopener noreferrer"> LinkedIn</a> &bull;
-        <a className='about-link' href={'https://github.com/ChristianD96'} target="_blank" rel="noopener noreferrer"> GitHub Link</a>
+        <a className='about-link' href={'https://github.com/ChristianD96'} target="_blank" rel="noopener noreferrer"> GitHub</a>
       </p>
       <h2>Professional Profile</h2>
       <p>Proud Air Force Veteran (recently held TS/SCI clearance) with an advanced knowledge in Microsoft Power Apps. 
