@@ -9,56 +9,57 @@ export default function About() {
         Salem, NH &bull;
         christian.a.drouin@gmail.com &bull;
         (805) 623-2208 &bull;
-        <a className='about-link' href={'https://www.linkedin.com/in/christian-a-drouin/'} target="_blank" rel="noopener noreferrer"> LinkedIn Link Click Me</a> &bull;
+        <a className='about-link' href={'https://www.linkedin.com/in/christian-a-drouin/'} target="_blank" rel="noopener noreferrer"> LinkedIn</a> &bull;
         <a className='about-link' href={'https://github.com/ChristianD96'} target="_blank" rel="noopener noreferrer"> GitHub Link Click Me</a>
       </p>
       <h2>Professional Profile</h2>
-      <p>Proud Air Force Veteran (recently held TS/SCI clearance) who is passionate about technology & software.
-        Highly adaptable to organizational change while maintaining a positive attitude & team-oriented approach to problem-solving.  </p>
+      <p>Proud Air Force Veteran (recently held TS/SCI clearance) with an advanced knowledge in Microsoft Power Apps. 
+          I have a passion for automation and web/software development. I strive to bring all clients requirements to fruition. </p>
       <h2>Technical Skills</h2>
       <div className='lists'>
         <ul className='skills'>
-          <li>C/C++</li>
-          <li>Python</li>
+          <li>Project Management</li>
+          <li>Automation</li>
           <li>JavaScript</li>
           <li>React</li>
-          <li>HTML/CSS</li>
+          <li>JSON</li>
         </ul>
         <ul className='skills'>
           <li>SDLC</li>
           <li>Power Automate</li>
           <li>Power Apps</li>
-          <li>Backend Development</li>
-          <li>UI/UX Design</li>
+          <li>Power Bi</li>
+          <li>RESTful APIs</li>
         </ul>
       </div>
       <h2>Projects</h2>
-      <h3>"Sorry!" App | Winter 2022</h3>
+      <h3>"Sorry!" Application</h3>
       <div className='projects'>
         <ul>
-          <li>Created an interface for users to randomly generate a "Sorry!" card since I lost the cards to my game.</li>
-          <li>Used Git to control project files/changes</li>
+          <li>Created a web-based application that randomly generates cards for users playing the game Sorry.</li>
+          <li>Used Strong problem-solving skills to troubleshoot and resolve issues related to React, JavaScript, HTML, and CSS.</li>
+          <li>Used React state and math functions to generate different cards which auto-adjust their view and response behavior to browser screen size and mobile vs. desktop UI.</li>
           <li>
             Used Amazon Amplify to publish project to the web here:
-            <a className='about-link' href={'https://main.d3dqgdwl4qxea.amplifyapp.com/'} target="_blank" rel="noopener noreferrer"> Sorry App Click Me</a>
+            <a className='about-link' href={'https://main.d3dqgdwl4qxea.amplifyapp.com/'} target="_blank" rel="noopener noreferrer"> Sorry App</a>
           </li>
         </ul>
       </div>
-      <h3>Full Stack Web Application | Spring 2022</h3>
+      <h3>Portfolio Site</h3>
       <div className='projects'>
         <ul>
-          <li>Acted as the lead developer for the frontend/backend solution of a fully functional MongoDB dashboard web application.</li>
-          <li>Using python libraries I developed client-side code that interfaces with the databases.</li>
-          <li>Converted a full-stack application running on Docker to a cloud based application using AWS for a fully functional web-app.</li>
-          <li>Created a full-stack web application using Mongo, JS, TS, HTML, CSS, and GitHub using branches and pulls for organization.</li>
+          <li>Used HTML and CSS to structure and style web pages, creating a visually appealing and user-friendly design.</li>
+          <li>Familiarity with client-side routing using React Router to create seamless navigation within a portfolio site.</li>
+          <li>Used AWS Amplify to streamline the deployment process by automating build, test, and deployment steps.</li>
+          <li>Created and managed branches, merged code changes, and resolved conflicts using Git commands and GitHub's UI.</li>
         </ul>
       </div>
-      <h3>Embedded Software | Winter 2021</h3>
+      <h3>Access Application</h3>
       <div className='projects'>
         <ul>
-          <li>Developed a deep understanding & in-depth evaluation of microcontroller service, architectures, & programing.</li>
-          <li>Manipulating GPIO pins, UART, & PWM I performed designated tasks involving sensors, LEDs, & motors using C/C++.</li>
-          <li>Using the TI SimpleLink CC3220S I coded the microcontroller to change the state of an LED through keyboard inputs.</li>
+          <li>Created Power Platform solution that allows a user to select/search a user from the tenant. The app then generates an Excel file which lists all levels of access across all SharePoint site collections. Uses Canvas, Flow, APIs, and SharePoint.</li>
+          <li>Used a series of nested loops and http requests to SharePoint and Microsoft 365 to collect raw JSON data on sites.</li>
+          <li>Filtered content using complex string functions to cut results not applicable to user entered in application.</li>
         </ul>
       </div>
       <h2>Professional Experience</h2>
@@ -67,9 +68,11 @@ export default function About() {
       <h4>May 2022 - Present</h4>
       <div className='projects'>
         <ul>
-          <li>Created multiple applications using PowerApps and Power Automate to eliminate monotonous tasks previously done by employees saving thousands of company hours and dollars.</li>
+          <li>Oversaw multiple client development projects, handling meetings, requirement gathering, testing, and implementation.</li>
+          <li>Created multiple applications using Power Platform to eliminate monotonous tasks previously done by employees saving thousands of company hours and dollars.</li>
           <li>Expertly managed multiple tenants Office 365 accounts handling both issues and requests for Microsoft Teams, SharePoint, Migrations, Power Bi reports, Power Automate flows, and more.</li>
           <li>Created various scripts using PowerShell to generate reports on large quantities of data based on client requirements.</li>
+          <li>Overtook entire client migration from Egnyte to SharePoint. Migrated 1.3 Terabytes of data before reaching client deadline. Organized meetings with content owners and handled all unique requests.</li>
         </ul>
       </div>
       <h3>Orbital Analyst (USAF)</h3>
